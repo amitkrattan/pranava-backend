@@ -1,0 +1,47 @@
+{
+  "stu_001": {
+    "id": "stu_001",
+    "name": "Shilpa",
+    "email": "shilpa@gmail.com",
+    "role": "student",
+    "password": "$2a$10$k4i1.klK1yMuqH1yTPE3/eqCDn5YCBqv9zZrTgsMlUevzA3REhjo6",
+    "firstLogin": true,
+    "createdAt": "2026-01-18T10:00:00Z"
+  },
+  "Sunil_P4673": {
+    "id": "Sunil_P4673",
+    "name": "Sunil Kumar",
+    "email": "",
+    "role": "student",
+    "password": "$2a$10$dERtpD11UGWzcUuOiX38rurP1Z.Ia5TlXkTuGrTNgTQNJzYH6imi6",
+    "firstLogin": true,
+    "createdAt": "2026-01-18T14:55:45.631Z"
+  },
+  "Nama-P0934": {
+    "id": "Nama-P0934",
+    "name": "Namaste",
+    "email": "",
+    "role": "student",
+    "password": "$2a$10$SSquqANBF4bWynqExcye7O3TJJRTXL2Cra4BcpiBJAkKZ563v83Xi",
+    "firstLogin": false,
+    "createdAt": "2026-01-20T09:14:11.556Z"
+  },
+  "Geet-P32&6": {
+    "id": "Geet-P32&6",
+    "name": "GeetaShree",
+    "email": "",
+    "role": "client",
+    "password": "$2a$10$yy2.zAo5V2.UqQ4CGsDGt.R2ma5YCeK0YhLXkr1f9fhHkM/zfHgd2",
+    "firstLogin": false,
+    "createdAt": "2026-01-20T12:17:56.501Z"
+  },
+  "Geeta-P4324": {
+    "id": "Geeta-P4324",
+    "name": "Geetha Shree",
+    "email": "",
+    "role": "client",
+    "password": "$2a$10$JSCvqK2IIZpU9B4sBWLrQuz.dgUiamJxg8dY5iXl5u.0fOXJVWvMO",
+    "firstLogin": true,
+    "createdAt": "2026-01-20T13:19:45.084Z"
+  }
+}
